@@ -6,7 +6,7 @@
 
 Este projeto é um clone da página inicial do site da Stone, desenvolvido utilizando Next.js, Typescript, Tailwind CSS, Keen Slider e Hamburger React. O objetivo é fornecer uma recriação fiel da interface da página inicial da Stone, demonstrando a integração dessas tecnologias modernas e populares.
 
-[Link do Site Clone](https://stone-landing-page-kappa.vercel.app)
+[Link do Site Clone](https://stone-landing-page-next.vercel.app)
 
 [Link do Site Original](stone.com.br)
 
