@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Stone Landing Page Clone
 
-## Getting Started
+![preview](./preview.png)
 
-First, run the development server:
+## Descrição
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Este projeto é um clone da página inicial do site da Stone, desenvolvido utilizando Next.js, Typescript, Tailwind CSS, Keen Slider e Hamburger React. O objetivo é fornecer uma recriação fiel da interface da página inicial da Stone, demonstrando a integração dessas tecnologias modernas e populares.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[Link do Site Clone](https://stone-landing-page-kappa.vercel.app)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+[Link do Site Original](stone.com.br)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tecnologias Utilizadas
 
-## Learn More
+- **Next.js:** Um framework React que possibilita a construção de aplicativos web escaláveis e eficientes.
 
-To learn more about Next.js, take a look at the following resources:
+- **Typescript:** Uma linguagem superset do JavaScript que adiciona tipagem estática ao código, melhorando a manutenção e escalabilidade.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Tailwind CSS:** Um framework de utilitários CSS altamente personalizável, que simplifica o desenvolvimento de interfaces responsivas.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **Keen Slider:** Uma biblioteca de slider/carrossel leve e flexível para React, facilitando a criação de experiências de navegação intuitivas.
 
-## Deploy on Vercel
+- **Hamburger React:** Um componente React para criar menus de navegação responsivos estilo "hamburger".
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Como Executar
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. Clone este repositório em sua máquina local.
+2. Instale as dependências usando o comando:
+   ```
+   npm install
+   ```
+3. Inicie o aplicativo com:
+   ```
+   npm run dev
+   ```
+4. Abra o aplicativo no seu navegador.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests.
